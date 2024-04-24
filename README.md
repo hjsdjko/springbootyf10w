@@ -2,28 +2,42 @@
 
 [索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
 
-【需要源码和论文：QQ联系 979748385 QQ群 601569450】
+关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
-推荐使用：谷歌浏览器 
+- **`微信扫一扫 (爱毕设) 获取源码`**
 
-后台地址
-http://localhost:8080/springbootxs5o6/admin/dist/index.html
+![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
-管理员  abo 密码 abo
+***************************************************************
 
+系统架构
 
-前台地址：http://localhost:8080/springbootxs5o6/front/index.html
+前端：html | js | css | jquery | vue
 
+后端：springboot | mybatis
 
+环境：jdk1.8+ | mysql | maven
 
-在src\main\resources\application.yml中编辑
-											
-	 url: jdbc:mysql://127.0.0.1:3306/springbootxs5o6?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-	    username: root
-	    password: 123456 （数据库密码）
+使用说明
 
-![输入图片说明](c3aa8c7ef26d5da88aef7e5aeb8f868.png)
-![输入图片说明](image.png)
-![输入图片说明](446806291e81faa8edbd63c01b700a8.png)
-![输入图片说明](e430eb51639ce8d480f4fced7e23f3f.png)
-![输入图片说明](b94a02d64697678b64df8103671762e.png)
+1、下载源码，导入IDEA
+
+2、创建数据库，执行数据库脚本
+
+3、修改数据库JDBC连接参数
+
+4、在IDEA中运行
+
+5、打开浏览器，参考<说明文档.txt>中的地址
+
+***************************************************************
+
+![image](https://github.com/hjsdjko/springbootyf10w/assets/120558513/ea4563c9-3985-4238-bb1b-d8d74f4745c6)
+
+![image](https://github.com/hjsdjko/springbootyf10w/assets/120558513/49aedc19-6620-4bc4-9c1b-50c6f519cdac)
+
+![image](https://github.com/hjsdjko/springbootyf10w/assets/120558513/1e7b5827-dbbc-4509-ae0e-dbcc1bf6fb01)
+
+![image](https://github.com/hjsdjko/springbootyf10w/assets/120558513/33501f8a-ceea-43aa-bdce-ff33d68671c2)
+
+![image](https://github.com/hjsdjko/springbootyf10w/assets/120558513/d6cc8220-2aaf-4c65-948f-d477a51b70e8)
